@@ -1,0 +1,18 @@
+SIMPLE ATTENDANCE RECORD SYSTEM IN PHP
+
+**ADMIN LOGIN DETAILS**
+
+Username : lea
+Password : admin
+
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "db_sars" AND IMPORT THE DATBASE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>> DATABASE FILE IS INSIDE "DATABASE" FOLDER!!
+
+>> Leader: Lea Peña
+>> Members: Jamaica Reloz
+            Francis Ryan Rebaldo
+
